@@ -1,6 +1,6 @@
 ### meteor-client
 
-# What is
+# About
 
 The original Meteor Client was conflicting with the Future Client. I investigated the issue and realized that the cause of the conflict was not very important and could be removed. I removed the conflicting mixins and modules, changed the ClickGUI key, and altered the Prefix character. The client 1.20.1 is compatible with Fabric.
 
